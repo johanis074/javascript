@@ -1,0 +1,12 @@
+#carousel {
+	text-align: center;
+}
+#carousel img {
+	max-width: 100%;
+	height: auto;
+}
+.carousel-button {
+	cursor: pointer;
+	padding: 10px;
+	margin: 5px;
+}
